@@ -31,7 +31,7 @@ print("Square root of the number:",b)
 
 ## Output:
 ![gcd of two number](gcd.png)
-![solution](output1.png)
+![solution](output2.png)
 
 ## Result:
 Thus the program to find the square root for the given number(newton's method) using function is written and verified using python programming.
